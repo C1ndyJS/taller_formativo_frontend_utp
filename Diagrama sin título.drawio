@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T03:40:06.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="03nXZLgry0bBCrnahG0N" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T04:23:11.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mcX3prGpB7dzvd9wXllO" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3855" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,9 +314,6 @@
         <mxCell id="2GYtuqcmoZOmWwmRRVoO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1362.5" y="680" width="132.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2GYtuqcmoZOmWwmRRVoO-4" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-d3947380-7fff-18d2-9418-218d7596f064&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;#Proceso de Pago: Verifica paso a paso el proceso de pago(Una cuenta real)&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1963" y="-1340" width="560" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="2GYtuqcmoZOmWwmRRVoO-6" value="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-f94cc762-7fff-7512-8169-9102f2368af8&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Proceso de notificación de Orden Realizada, Corregir lo siguiente, El else &lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1957.5" y="-1320" width="510" height="40" as="geometry" />
         </mxCell>
@@ -409,6 +406,9 @@
         </mxCell>
         <mxCell id="2GYtuqcmoZOmWwmRRVoO-58" value="End" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=14;fontFamily=Helvetica;spacing=1;strokeOpacity=100;strokeWidth=NaN;lucidId=.1bcArGxK.Wd;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1897.5" y="-550" width="135" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="2GYtuqcmoZOmWwmRRVoO-64" value="&lt;b id=&quot;docs-internal-guid-d3947380-7fff-18d2-9418-218d7596f064&quot; style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: normal;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;#Proceso de Pago: Verifica paso a paso el proceso de pago(Una cuenta real)&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2024.5" y="-230" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
